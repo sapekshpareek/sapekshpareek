@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sapeksh Pareek</h1>
 <h3 align="center">A passionate Full Stack (MERN) developer from India</h3>
 
-- 🔭 I’m currently working on **different Open Source Projects.**
+- 🔭 I’m currently working on **Web Development  Projects.**
 
 - 🌱 I’m currently learning **TypeScript.**
 
