@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **AI/ML.**
+- 🤝 I’m looking for help with **TensorFlow.**
 
 - 📫 How to reach me **sapekshpareek136@gmail.com**
 
