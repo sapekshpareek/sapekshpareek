@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sapekshpareek136@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/sapeksh](bit.ly/sapeksh)
+- 📄 Know about my experiences [bit.ly/sapeksh](bit.ly/sapekshp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
